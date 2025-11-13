@@ -1,4 +1,4 @@
-age = "18"
+age = 18
 employe_name ="xyz"
 company ="infocys"
 print(age)
